@@ -1,5 +1,5 @@
 # Python Interview
-# Group Anagram p.153
+# Group Anagram / p.153
 
 def solution(ls: list[str]) -> list[list[str]]:
     from collections import defaultdict
