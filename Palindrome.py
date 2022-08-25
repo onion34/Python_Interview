@@ -1,5 +1,5 @@
 # Python Interview
-# Palindrome
+# Palindrome / p.138
 
 def solution_by_list(text: str) -> bool:
     ls = []
